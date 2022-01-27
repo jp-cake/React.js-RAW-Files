@@ -84,7 +84,7 @@ li {
 .container {
   display: flex;
   flex-direction: row;
-  width: 75vw;
+  width: 65vw;
   height: 500px;
   margin-bottom: 30px;
   border: 7px solid goldenrod;
