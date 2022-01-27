@@ -97,6 +97,7 @@ li {
   padding: 20px;
   width:100%;
   overflow-y: scroll;
+  margin: 0px 50px;
 }
 
 .btn {
