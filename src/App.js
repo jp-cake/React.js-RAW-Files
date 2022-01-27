@@ -55,7 +55,7 @@ class StarWars extends React.Component{
         {
           this.state.loadedCharacter && 
             <div className='container'>
-              <img src={this.state.image}></img>
+              <img src={this.state.image} alt=''></img>
               <div className='column'>
                 <h1>{this.state.name}</h1>
                 <p><strong>Height(m):</strong> {this.state.height}</p>
